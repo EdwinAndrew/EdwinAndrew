@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/EdwinAndrew/EdwinAndrew?label=updated)
 ![GitHub followers](https://img.shields.io/github/followers/EdwinAndrew?label=GitHub%20followers)
 
-[![Jürgen's github stats](https://github-readme-stats.vercel.app/api?username=EdwinAndrew&show_icons=true&count_private=true)](https://github.com/EdwinAndrew)
+[![Edwins's github stats](https://github-readme-stats.vercel.app/api?username=EdwinAndrew&show_icons=true&count_private=true)](https://github.com/EdwinAndrew)
 
 ## 🎓 Certificates & Trainings
 <!--
