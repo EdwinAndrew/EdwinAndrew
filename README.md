@@ -31,5 +31,4 @@ I am currently working as a Release Manager at [The Score](https://www.thescore.
 
 
 ## 🎓 Certificates & Trainings
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+[![LFS151: Introduction to Cloud Infrastructure Technologies](https://images.credly.com/size/340x340/images/eb2e256d-e6ae-4173-be1b-7cee5e8c35ac/image.png)](https://www.credly.com/earner/earned/badge/f124c783-c5c7-49b2-b37d-7f9f5296a8e2)
