@@ -1,5 +1,10 @@
 ## Hi there 👋
+![GitHub last commit](https://img.shields.io/github/last-commit/EdwinAndrew/EdwinAndrew?label=updated)
+![GitHub followers](https://img.shields.io/github/followers/EdwinAndrew?label=GitHub%20followers)
 
+[![Jürgen's github stats](https://github-readme-stats.vercel.app/api?username=EdwinAndrew&show_icons=true&count_private=true)](https://github.com/EdwinAndrew)
+
+## 🎓 Certificates & Trainings
 <!--
 **EdwinAndrew/EdwinAndrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
