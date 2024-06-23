@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![GitHub last commit](https://img.shields.io/github/last-commit/EdwinAndrew/EdwinAndrew?label=updated)
 ![GitHub followers](https://img.shields.io/github/followers/EdwinAndrew?label=GitHub%20followers)
-
+![](https://komarev.com/ghpvc/?username=EdwinAndrew&color=red)
 ## About Me
 
 - 🌟 **Name:** Edwin Andrew
