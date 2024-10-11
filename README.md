@@ -31,6 +31,8 @@ I am currently working as a Release Manager at [The Score](https://www.thescore.
 
 
 ## 🎓 Certificates & Trainings
-[![LFS151: Introduction to Cloud Infrastructure Technologies](https://images.credly.com/size/340x340/images/eb2e256d-e6ae-4173-be1b-7cee5e8c35ac/image.png)](https://www.credly.com/earner/earned/badge/f124c783-c5c7-49b2-b37d-7f9f5296a8e2)
-[![LFS158: Introduction to Kubernetes](https://images.credly.com/size/340x340/images/9fb38928-c145-4952-9bab-7cb81082ff4f/image.png)](https://www.credly.com/badges/cb0561a3-715c-4dd0-8e66-20cd954b4d12/public_url)
+
 [![Google Cloud Fundamentals: Core Infrastructure](https://cdn.qwiklabs.com/KkAaZnGQLrLsT45XOEFoOekpBlaUSt9BOMMVV2WOz7o%3D)](https://www.cloudskillsboost.google/public_profiles/4d873d8c-5712-4865-b40c-8197ab2ce917/badges/9144191)
+[![LFS158: Introduction to Kubernetes](https://images.credly.com/size/110x110/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob)](https://www.credly.com/badges/cb0561a3-715c-4dd0-8e66-20cd954b4d12/public_url)
+[![LFS151: Introduction to Cloud Infrastructure Technologies](https://images.credly.com/size/110x110/images/c52b0e6e-e171-41c2-a459-b8e618ea1e72/blob)](https://www.credly.com/badges/cb0561a3-715c-4dd0-8e66-20cd954b4d12/public_url)
+
