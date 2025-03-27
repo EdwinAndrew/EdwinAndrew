@@ -5,7 +5,7 @@
 ## About Me
 
 - 🌟 **Name:** Edwin Andrew
-- 💼 **Current Role:** Release Manager at The Score
+- 💼 **Current Role:** Senior Release Manager at The Score
 - 🎓 **Education:** Bachelors of Engineering - Aerospace Engineering
 - 📚 **Passion:** Always eager to learn new things
 
