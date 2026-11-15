@@ -14,7 +14,6 @@ I lead programs where software delivery meets regulation: market launches, relea
 - 🚀 **Program delivery:** cross-functional launch programs spanning Legal and Compliance, Data, Product and Engineering, Marketing, and Operations, reporting to a senior leadership steering committee
 - 🔁 **Release management:** release governance, change management, and KPIs for release velocity, deployment success, and downtime. I mentor a team of Release Managers
 - 🛡️ **Compliance and audit:** leading SOC 2 and ISO 27001 audit programs and supporting SOX, with audit-ready change management across multiple jurisdictions
-- ⚙️ **Automation:** automating compliance into CI/CD, such as SHA256 signature capture during environment promotions that took regulatory reporting from hours per deployment to zero, plus Slack, Jira, and Confluence workflow integrations
 
 ## 🧰 Toolbox
 
@@ -37,8 +36,6 @@ I lead programs where software delivery meets regulation: market launches, relea
 ## 🎓 Background
 
 - **B.Eng., Aerospace Engineering**, Ryerson University. Engineering gave me the analytical, systems-thinking approach I now use on delivery programs.
-- **Career:** Release Manager at TD Bank → theScore, promoted to Senior TPM
-- **Currently learning:** Kubernetes, working toward the CKAD
 
 ## 🏅 Certifications & Training
 
@@ -53,7 +50,3 @@ I lead programs where software delivery meets regulation: market launches, relea
 ## 📊 GitHub Stats
 
 <a href="https://github.com/EdwinAndrew"><img src="https://streak-stats.demolab.com?user=EdwinAndrew&theme=transparent&hide_border=true" alt="Edwin's GitHub contribution streak"></a>
-
-## 🌱 Interests
-
-CI/CD and DevOps · release engineering · aerospace and aviation tech · always learning something new
