@@ -5,7 +5,6 @@
 I lead programs where software delivery meets regulation: market launches, release management, and compliance audits in sports betting and iGaming. Before that I ran enterprise releases in banking. I like replacing manual process with automation wherever I can.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-edwinandrew1-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwinandrew1/)
-[![Email](https://img.shields.io/badge/Email-edwinandrew96%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:edwinandrew96@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=EdwinAndrew&color=blue&style=flat)
 ![Last updated](https://img.shields.io/github/last-commit/EdwinAndrew/EdwinAndrew?label=updated)
 
